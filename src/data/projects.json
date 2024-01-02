@@ -1,0 +1,28 @@
+[
+    {
+      "title": "Backend Development",
+      "imageSrc": "projects/project.png",
+      "description": "Developed an airplane booking system for reserving and managing flight tickets for travellers.",
+      "skills": ["React.js", "Express.js", "Node.js", "MySQL","REST APIs"],
+      
+      "source": "https://github.com/Viggy12126/airplane-booking-system"
+    },
+
+    {
+      "title": "Frontend Development",
+      "imageSrc": "projects/project.png",
+      "description": "Developed an end-to-end e-commerce application using Stripe API and Commerce.js API.",
+      "skills": ["React.js","Commerce.js","Stripe.js"],
+      
+      "source": "https://github.com/Viggy12126/e-commerce-webshop-app"
+    },
+    {
+      "title": "Full Stack Development",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a full stack subscription-based online learning video streaming platform.",
+      "skills": ["React.js", "Express.js", "Node.js", "MongoDB", "Redux"],
+      
+      "source": "https://github.com/Viggy12126/Video-Streaming-Application"
+    }
+    
+  ]

@@ -1,0 +1,19 @@
+[
+    {
+      "role": "SWE Teaching Assistant Intern",
+      "organisation": "Coding Ninjas",
+      "startDate": "July, 2021",
+      "endDate": "November, 2021",
+      "experiences": ["Resolved 600+ doubts in various Data Structures and Algorithms questions in Java.", "Conducted live classes on topics like Dynamic Programming, Trees, Graphs etc.","Contributed and tested a web application in JavaScript resulting in increased efficiency by 12%."]
+     
+    },
+    {
+      "role": "Web Developer Intern",
+      "organisation": "Thakur College of Engineering and Technology",
+      "startDate": "May, 2021",
+      "endDate": "July, 2021",
+      "experiences": ["Developed a web application for generating an ATS-friendly resume in PDF format.", "Implemented html-pdf library for generating an html document in PDF format within less than 3 seconds.","Leveraged my expertise in React.js, Node.js, Express.js and Material UI to increase user satisfaction by 10%."]
+     
+    }
+    
+  ]
