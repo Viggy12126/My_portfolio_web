@@ -6,7 +6,7 @@ const Banner = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Vighnesh</h1>
+        <h1 className={styles.title}>I'm Vighnesh</h1>
         <p className={styles.description}>
           I am currently pursuing my masters in Computer Science from NC State University. I am  
           looking for SWE internships for summer 2024. If you feel that I am a good fit for your company, kindly contact me.
@@ -17,7 +17,7 @@ const Banner = () => {
           Contact Me
         </a>
 
-        <a href="https://drive.google.com/file/d/1cdzSxTn0emz1yiOL7oLaLfQnCQUckY0v/view?usp=drive_link" className={styles.contactBtn}>
+        <a href="https://drive.google.com/file/d/1YwyhzmxzSxY8rmK8DO4j-RGDZfctWlPC/view?usp=drive_link" className={styles.contactBtn}>
           Download Resume
         </a>
        </div>
@@ -61,11 +61,11 @@ const Banner = () => {
 </div>
        </div>
       </div>
-      <img
+      {/* <img
         src={getImageUrl("banner/my pic.png")}
         alt="Hero image of me"
         className={styles.heroImg}
-      />
+      /> */}
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
     </section> 
